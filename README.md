@@ -17,15 +17,15 @@
 <div style="background-color: red;"><br />
 
 # Get in touch
-<a href="https://instagram.com/leocodelab" target="_blank">
+<a target="__blank" href="https://instagram.com/leocodelab" target="_blank">
 <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <br />
-<a href="https://www.linkedin.com/in/leonardo-schunck-rainha-a08468202/ target="_blank">
+<a target="__blank" href="https://www.linkedin.com/in/leonardo-schunck-rainha-a08468202/ target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank" />
 </a>
 <br />
-<a href="https://medium.com/@schunckrainhaleonardo">
+<a target="__blank" href="https://medium.com/@schunckrainhaleonardo">
   <img src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 

@@ -10,7 +10,7 @@
 <div><br />
 
 # My Stacks
-<img src="https://skillicons.dev/icons?i=c,cs,js,mongodb,mysql,nodejs,react,ts,nextjs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=go,docker,js,mongodb,mysql,nodejs,react,ts,nextjs&theme=dark" />
   
 </div>
 

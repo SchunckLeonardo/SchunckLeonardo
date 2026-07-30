@@ -1,1 +1,1 @@
-![Widget](https://git-ascii.vercel.app/api/SchunckLeonardo)
+![Widget](https://git-ascii.vercel.app/api/SchunckLeonardo?v=1)

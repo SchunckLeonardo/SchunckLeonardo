@@ -1,1 +1,7 @@
-![Widget](https://git-ascii.vercel.app/api/SchunckLeonardo?v=3)
+<a href="https://www.gitascii.com">
+  <img
+    src="https://www.gitascii.com/api/SchunckLeonardo?v=1787057126431"
+    alt="GitAscii Widget"
+    width="100%"
+  />
+</a>
